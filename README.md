@@ -1,4 +1,5 @@
 Nimap Infotech Task - Category and Product Management System
+
 Introduction 
 Welcome to the Nimap Infotech Task repository. This project is a Category and Product Management System built using Spring Boot. It allows for the management of categories and products, supporting CRUD operations, a one-to-many relationship between categories and products, server-side pagination, and detailed responses for products that include their associated category.
 
